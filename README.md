@@ -11,3 +11,6 @@ Verificação de que todas as tarefas do CSV são importadas corretamente;
 Testes independentes de serviços externos, com fetch mockado.
 
 Essa abordagem assegura funcionamento confiável e repetível da API e da lógica de importação, garantindo que o sistema se comporte conforme esperado em todos os cenários.
+
+
+<a href="https://app.rocketseat.com.br/me/caioolopes-02473"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=caioolopes-02473&type=card" width="280" alt="Caio oliveira Lopes's Rocket ID"/></a>
